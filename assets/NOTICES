@@ -1922,6 +1922,7 @@ THE SOFTWARE.
 --------------------------------------------------------------------------------
 args
 csslib
+logging
 
 Copyright 2013, the Dart project authors. 
 
@@ -35049,6 +35050,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 webview_flutter_android
+webview_flutter_web
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
