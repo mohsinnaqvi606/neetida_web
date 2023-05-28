@@ -110289,7 +110289,7 @@ $.t().si(0,!1)},
 $S:1}
 A.AZ.prototype={
 E(a){var s=null
-return A.cn(!0,A.ct(new A.cB(A.d("invite my friend").toUpperCase(),!0,s,s),A.bdE(A.a([this.Ar(),A.af(new A.CG(this.c.ay,s),1)],t.p)),s,!1),!0,B.C,!0,!0)},
+return A.cn(!0,A.ct(new A.cB(A.d("invite my friend").toUpperCase(),!0,s,s),A.bdE(A.a([this.Ar(),A.a5(new A.CG(this.c.ay,s),200,300)],t.p)),s,!1),!0,B.C,!0,!0)},
 Ar(){var s,r,q,p,o=null,n=$.Es(),m=$.e_()
 m=m.gi(m).c
 m=A.ae(o,A.bd_(m==null?"":m,0,!0,110,3),B.k,B.e,o,o,o,o,o,o,new A.q(8,8,8,8),o,o,o)
